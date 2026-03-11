@@ -23,8 +23,6 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: KAVIYA V M 
 RegisterNumber: 212224040154 
 */
-
-
 ```
 
 ```PYTHON
